@@ -54,19 +54,7 @@
   <p><i>"Clean code always looks like it was written by someone who cares."</i></p>
 </div>
 
-<!-- Aesthetic connection section -->
-<div align="center">
-  <h3>✧ Connect With Me ✧</h3>
-  <a href="https://twitter.com/samyog">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=1A1B27" alt="Twitter">
-  </a>
-  <a href="https://github.com/Iam-samyog">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=24283b" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/samyog">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=364f6b" alt="LinkedIn">
-  </a>
-</div>
+
 
 <!-- Anime-style footer -->
 <div align="center">
