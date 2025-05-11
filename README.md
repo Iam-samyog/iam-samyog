@@ -1,136 +1,77 @@
+<!-- Custom CSS for animations -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Hi%20there,%20I'm%20Samyog!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=18,22&height=210&section=header&text=Hi!%20I%20am%20Samyog%20&fontSize=45&fontAlign=center&fontAlignY=25&descAlign=center&descAlignY=40&descSize=18&animation=fadeIn"
+    width="100%" 
+    alt="Samyog GitHub Header"
+/>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100" alt="github">
+  <!-- Animated greeting text -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3671E9&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Welcome+to+my+digital+domain;Where+code+becomes+reality" alt="Typing SVG" />
 </div>
 
-<img align="right" src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="280" alt="Anime coding animation" style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;" />
+<!-- Parallax effect image divider -->
 
-<details open>
-  <summary><h2>🧙‍♂️ Who Am I?</h2></summary>
-  <p>
-    <strong>By day:</strong> Software architect weaving code into solutions.<br/>
-    <strong>By night:</strong> Game dev enthusiast building virtual worlds.<br/>
-    <strong>Always:</strong> Curious explorer in the digital wilderness.<br/>
-  </p>
-  
-  ```javascript
-  const samyog = {
-    pronouns: "he/him",
-    location: "Kathmandu, Texas",
-    speaks: ["English", "Nepali", "JavaScript", "Python", "C"],
-    loves: ["Cooking", "Art", "hiking", "science fiction", "coffee"],
-    currentlyLearning: "C/C++",
-    askMeAbout: ["web dev", "tech", "politics ", "Books", "coffee brewing"]
-  };
-  ```
-</details>
+<!-- Main profile section with anime aesthetics -->
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img src="https://i.pinimg.com/originals/f4/32/74/f43274ca2a5baf4903cdf77b3d148ced.gif" width="500px" />
+    </td>
+    <td width="50%">
+      <h3>⋆｡˚ About Me ⋆｡˚</h3>
+      <p><i>"Architecting digital solutions with precision and vision."</i></p>
+      <p>
+        Like an anime protagonist facing impossible challenges, I navigate through complex code structures and build elegant solutions. Every project is a new problem to solve, every function a carefully crafted tool in my arsenal.
+      </p>
+      <p>
+        When I'm not coding, you'll find me analyzing algorithms, exploring new programming languages, or strategizing my next technological breakthrough.
+      </p>
+    </td>
+  </tr>
+</table>
 
-<details open>
-  <summary><h2>🎮 My Digital Playground</h2></summary>
-  <p align="center">
-    <img src="https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif" width="200" /><br/>
-    <em>Where code meets creativity and bugs become features</em>
-  </p>
-  
-  <div align="center">
-    <table border="0">
-      <tr>
-        <td width="50%">
-          <h3 align="center">🎨 Creating With</h3>
-          <p align="center">
-            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-            <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-          </p>
-        </td>
-        <td width="50%">
-          <h3 align="center">💭 Currently Dreaming About</h3>
-          <p align="center">
-            <a href="https://github.com/yourusername/cool-project">🎮 An indie game about digital archaeology</a><br/>
-            <a href="https://github.com/yourusername/another-project">🤖 A pixel art editor with AI assistance</a><br/>
-            <a href="https://github.com/yourusername/wild-idea">🌱 A nature-inspired generative art tool</a>
-          </p>
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
-
-<br/>
-
-<details open>
-  <summary><h2>📚 My Story</h2></summary>
-  <div align="center">
-    <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" alt="Cartoon character typing">
-  </div>
-  
-  <p align="center">
-    <em>Once upon a time, I discovered that semicolons have feelings too...</em>
-  </p>
-  
-  <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <strong>Started coding</strong> by modifying video games</td>
-      <td><img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="30"> <strong>Found my passion</strong> in creating interactive experiences</td>
-    </tr>
-    <tr>
-      <td><img src="https://media.giphy.com/media/llDQjVIHqiXkeIJgrK/giphy.gif" width="30"> <strong>Now building</strong> tools that make people smile</td>
-      <td><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> <strong>Always learning</strong> from the amazing dev community</td>
-    </tr>
-  </table>
-  </div>
-</details>
-
-<br/>
-
-<details open>
-  <summary><h2>🌈 Beyond The Code</h2></summary>
-  <div align="center">
-    <img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif" width="200" alt="Adventure time character coding">
-  </div>
-  
-  <p align="center">
-    🎨 <strong>Creating pixel art</strong> of imaginary landscapes<br/>
-    🎮 <strong>Building games</strong> that probably only I will play<br/>
-    🏔️ <strong>Hiking</strong> whenever screens become too much<br/>
-    📚 <strong>Reading</strong> sci-fi and fantasy (recommendations welcome!)<br/>
-    ☕ <strong>Brewing</strong> coffee with unnecessary precision
-  </p>
-  
-  <div align="center">
-    <details>
-      <summary><strong>🎵 Currently playing in my headphones</strong></summary>
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=yourusername&count=1" alt="Spotify Recently Played" width="400" />
-    </details>
-  </div>
-</details>
-
-<br/>
-
-<details open>
-  <summary><h2>💬 Let's Connect!</h2></summary>
-  <div align="center">
-    <img src="https://media.giphy.com/media/jOnvMpGbLFiVpZbQhM/giphy.gif" width="200" alt="Cartoon mail" />
-  </div>
-  
-  <p align="center">
-    <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://dev.to/yourusername"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  </p>
-  
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views">
-  </div>
-</details>
-
+<!-- Technical skill visualization -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:EEFF00&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+  <h3>✧ Technical Arsenal ✧</h3>
+  <div>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </div>
+
+</div>
+
+<!-- Coding quote -->
+<div align="center">
+  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlvcWp4eTkxN2F2dWkybm9rd2I3N3N5Z2ZyOGt3dHJ6N3hvdjFxbyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif" width="300px">
+  <p><i>"Clean code always looks like it was written by someone who cares."</i></p>
+</div>
+
+<!-- Aesthetic connection section -->
+<div align="center">
+  <h3>✧ Connect With Me ✧</h3>
+  <a href="https://twitter.com/samyog">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=1A1B27" alt="Twitter">
+  </a>
+  <a href="https://github.com/samyog">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=24283b" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/samyog">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=364f6b" alt="LinkedIn">
+  </a>
+</div>
+
+<!-- Anime-style footer -->
+<div align="center">
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%">
 </div>
