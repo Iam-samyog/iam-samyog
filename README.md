@@ -5,7 +5,7 @@
 
 <div align="center">
   <!-- Animated greeting text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=a82da8&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Welcome+to+my+digital+domain;Where+code+becomes+reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=007bff&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Welcome+to+my+digital+domain;Where+code+becomes+reality" alt="Typing SVG" />
 </div>
 
 
