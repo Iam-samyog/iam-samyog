@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Hi%20there,%20I'm%20Alex!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Hi%20there,%20I'm%20Samyog!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100" alt="github">
 </div>
 
-<img align="right" src="https://api.readyplayer.me/v1/avatars/63199df4f0a85805480589ac.png" width="250" alt="3D avatar" />
+<img align="right" src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="280" alt="Anime coding animation" style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;" />
 
 <details open>
   <summary><h2>🧙‍♂️ Who Am I?</h2></summary>
@@ -17,13 +17,13 @@
   </p>
   
   ```javascript
-  const alex = {
+  const samyog = {
     pronouns: "he/him",
-    location: "Amsterdam, Netherlands",
-    speaks: ["English", "Dutch", "JavaScript", "Python", "C#"],
-    loves: ["game development", "pixel art", "hiking", "science fiction", "coffee"],
-    currentlyLearning: "Godot Engine & Blender 3D",
-    askMeAbout: ["web dev", "tech", "indie games", "fantasy novels", "coffee brewing"]
+    location: "Kathmandu, Texas",
+    speaks: ["English", "Nepali", "JavaScript", "Python", "C"],
+    loves: ["Cooking", "Art", "hiking", "science fiction", "coffee"],
+    currentlyLearning: "C/C++",
+    askMeAbout: ["web dev", "tech", "politics ", "Books", "coffee brewing"]
   };
   ```
 </details>
