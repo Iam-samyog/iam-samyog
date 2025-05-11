@@ -5,7 +5,7 @@
 
 <div align="center">
   <!-- Animated greeting text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=007bff&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Welcome+to+my+digital+domain;Where+code+becomes+reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=a82da8&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Welcome+to+my+digital+domain;Where+code+becomes+reality" alt="Typing SVG" />
 </div>
 
 
@@ -14,7 +14,7 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr width="60%">
     <td>
-      <img src="https://64.media.tumblr.com/ee5ebc1d9445f01ff76103d027195826/tumblr_muefaahCU41qffcopo1_500.gif" width="100%" />
+      <img src="https://i.pinimg.com/originals/2c/45/fa/2c45fa7b020a0889c6a06298fbbbc6d1.gif" width="100%" />
     </td>
     <td width="40%">
       <h3>⋆｡˚ About Me ⋆｡˚</h3>
