@@ -1,8 +1,8 @@
 <div align="center">
-  
+
 # ✨ Hello, I'm [Your Name] ✨
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Open+Source+Enthusiast;Creative+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3000&pause=1000&color=F8D866&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Open+Source+Enthusiast;Creative+Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,19 +20,19 @@ const developer = {
 
 <div align="center">
   
-## Tech Palette
+## 🎨 Tech Palette
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql&logoColor=E10098)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F8D866?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
 <div align="center">
 
-## Creation Highlights
+## ✨ Creation Highlights
 
 <a href="https://github.com/yourusername/project1">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true" />
@@ -45,7 +45,7 @@ const developer = {
 
 <div align="center">
   
-## GitHub Canvas
+## 📊 GitHub Canvas
 
 <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide=stars" height="170px">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="170px">
@@ -54,13 +54,19 @@ const developer = {
 
 <div align="center">
   
-## Let's Connect
+## 🔗 Let's Connect
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://yourportfolio.com)
+<a href="https://twitter.com/yourusername">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/yourusername">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://yourportfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+</a>
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=yourusername&count=1)
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=yourusername&count=1" alt="Spotify Recently Played" width="400" />
 
 </div>
 
