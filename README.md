@@ -18,12 +18,12 @@
     </td>
     <td width="40%">
       <h3>⋆｡˚ About Me ⋆｡˚</h3>
-      <p><i>"Architecting digital solutions with precision and vision."</i></p>
+      <p><i><strong>"Architecting digital solutions with precision and vision."</strong></i></p>
       <p>
         Like an anime protagonist facing impossible challenges, I navigate through complex code structures and build elegant solutions. Every project is a new problem to solve, every function a carefully crafted tool in my arsenal.
       </p>
       <p>
-        When I'm not coding, you'll find me analyzing algorithms, exploring new programming languages, or strategizing my next technological breakthrough.
+       When I'm not coding, you'll find me analyzing algorithms, exploring new programming languages, or strategizing my next technological breakthrough. I treat every setback as a training arc, a chance to level up and come back stronger. For me, programming isn't just a skill—it's a lifelong quest for mastery.
       </p>
     </td>
   </tr>
