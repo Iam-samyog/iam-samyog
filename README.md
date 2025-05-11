@@ -1,25 +1,144 @@
-<h1 align="center">Hi 👋, I'm Samyog</h1>
-<h3 align="center">A passionate CS major .</h3>
+# <div align="center">👾 Welcome to My Digital Garden 👾</div>
 
-- 🌱 I’m currently learning **C/C++**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Continuous+Learner;Coffee+Powered+Human" alt="Typing SVG" />
+</div>
 
-- 💬 Ask me about **React ,Django, Python**
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyourusername&label=VISITORS&labelColor=%23222222&countColor=%2337d67a" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyourusername&labelColor=%23d9e3f0&countColor=%23697689" />
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyourusername&labelColor=%23d9e3f0&countColor=%23697689" />
+  </picture>
+</div>
 
-- 📫 How to reach me **msamyog37@gmail.com**
+## 📡 Signal Status
 
-- ⚡ Fun fact **I am Batman**
+```text
+🌱 Currently learning: Rust & WebAssembly
+🔭 Building: A decentralized knowledge-sharing platform
+🧠 Exploring: Machine Learning applications in everyday tools
+🤝 Open to: Collaboration on projects with social impact
+📫 Transmission: youremail@example.com
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/samyog maharjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samyog maharjan" height="30" width="40" /></a>
-<a href="https://instagram.com/iam.samyog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam.samyog" height="30" width="40" /></a>
-</p>
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Developer Codex
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/yourusername?tab=repositories&q=&type=&language=javascript">
+          <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/yourusername?tab=repositories&q=&type=&language=typescript">
+          <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/yourusername?tab=repositories&q=&type=&language=react">
+          <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/yourusername?tab=repositories&q=&type=&language=nodejs">
+          <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/yourusername?tab=repositories&q=&type=&language=python">
+          <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-samyog&show_icons=true&locale=en&layout=compact" alt="iam-samyog" /></p>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Project Universe
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-samyog&show_icons=true&locale=en" alt="iam-samyog" /></p>
+<div align="center">
+  <a href="https://github.com/yourusername/project1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=react&hide_border=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/yourusername/project2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=react&hide_border=true&show_icons=true" />
+  </a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-samyog&" alt="iam-samyog" /></p>
+## 🌌 Cosmic Activity
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=react&show_icons=true&hide_border=true&&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=react&show_icons=true&hide_border=true&layout=compact" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react&hide_border=true" />
+</div>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect Through Subspace
+
+<div align="center">
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dev.to/yourusername">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="https://yourusername.medium.com">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
+
+## 🎵 Current Coding Soundtrack
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourusername&cover_image=true&theme=novatorem" />
+</div>
+
+## <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="25"> A Slice of My Knowledge Matrix
+
+```mermaid
+mindmap
+  root((Developer))
+    Frontend
+      JavaScript
+      TypeScript
+      React
+      Vue.js
+      CSS/SASS
+    Backend
+      Node.js
+      Python
+      GraphQL
+      REST APIs
+    DevOps
+      Docker
+      CI/CD
+      Cloud Services
+    Data
+      SQL
+      NoSQL
+      Data Visualization
+```
+
+## 🧰 Daily Toolkit
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,nodejs,python,go,graphql,mongodb,postgres,docker,aws,figma,git&perline=5" />
+</div>
+
+## 🌱 My Contribution Garden
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
