@@ -14,7 +14,7 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr width="60%">
     <td>
-      <img src="https://i.pinimg.com/originals/2c/45/fa/2c45fa7b020a0889c6a06298fbbbc6d1.gif" width="100%" />
+      <img src="https://i.pinimg.com/originals/f4/32/74/f43274ca2a5baf4903cdf77b3d148ced.gif" width="100%" />
     </td>
     <td width="40%">
       <h3>⋆｡˚ About Me ⋆｡˚</h3>
