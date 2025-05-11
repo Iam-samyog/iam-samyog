@@ -1,88 +1,136 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLoHVEMrF9Fha9/giphy.gif" alt="Animated pixel art of a friendly waving character with a laptop" width="150">
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Hi%20there,%20I'm%20Alex!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+</div>
 
-<h1 align="center">Hey there, I'm Codey! 👋</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100" alt="github">
+</div>
 
-<p align="center">
-  A perpetually curious developer fueled by coffee ☕, a love for quirky cartoons 🤪, and the thrill of bringing digital ideas to life.
-</p>
+<img align="right" src="https://api.readyplayer.me/v1/avatars/63199df4f0a85805480589ac.png" width="250" alt="3D avatar" />
 
-<br>
-
-<p align="center">
-  <a href="https://my-portfolio-website.example.com/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Digital%20Playground-Website-blueviolet?style=for-the-badge" alt="My Portfolio Website">
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Say%20Hi!-Email-critical?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <details>
-    <summary><b>A Little More About My Adventures... 🗺️</b></summary>
-    <br>
-    Hey again! So, beyond the lines of code, you'll find me lost in the world of animation (think Studio Ghibli charm!), sketching silly characters 🖍️, or exploring hidden hiking trails 🏞️. I believe that creativity isn't confined to just one domain – it spills over into how we approach problems and build solutions.
-
-    My coding journey is driven by a desire to create things that are not only functional but also bring a little bit of joy to the user experience. I'm particularly fascinated by [mention 1-2 specific areas of interest, e.g., front-end wizardry and crafting intuitive interfaces, or the magic of back-end systems and making things tick].
-
-    Currently tinkering with:
-    <ul>
-      <li>Learning the art of [mention a specific technology or skill you're learning] 📚</li>
-      <li>Building a small side project related to [mention your side project briefly] 🛠️</li>
-      <li>Experimenting with [mention another tech or interest] 🧪</li>
-    </ul>
-  </details>
-</p>
-
-<br>
-
-<p align="center">
-  <b>My Current Toolbox (Subject to additions and upgrades! 🛠️)</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
+<details open>
+  <summary><h2>🧙‍♂️ Who Am I?</h2></summary>
+  <p>
+    <strong>By day:</strong> Software architect weaving code into solutions.<br/>
+    <strong>By night:</strong> Game dev enthusiast building virtual worlds.<br/>
+    <strong>Always:</strong> Curious explorer in the digital wilderness.<br/>
   </p>
+  
+  ```javascript
+  const alex = {
+    pronouns: "he/him",
+    location: "Amsterdam, Netherlands",
+    speaks: ["English", "Dutch", "JavaScript", "Python", "C#"],
+    loves: ["game development", "pixel art", "hiking", "science fiction", "coffee"],
+    currentlyLearning: "Godot Engine & Blender 3D",
+    askMeAbout: ["web dev", "tech", "indie games", "fantasy novels", "coffee brewing"]
+  };
+  ```
+</details>
 
-<br>
+<details open>
+  <summary><h2>🎮 My Digital Playground</h2></summary>
+  <p align="center">
+    <img src="https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif" width="200" /><br/>
+    <em>Where code meets creativity and bugs become features</em>
+  </p>
+  
+  <div align="center">
+    <table border="0">
+      <tr>
+        <td width="50%">
+          <h3 align="center">🎨 Creating With</h3>
+          <p align="center">
+            <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+            <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+          </p>
+        </td>
+        <td width="50%">
+          <h3 align="center">💭 Currently Dreaming About</h3>
+          <p align="center">
+            <a href="https://github.com/yourusername/cool-project">🎮 An indie game about digital archaeology</a><br/>
+            <a href="https://github.com/yourusername/another-project">🤖 A pixel art editor with AI assistance</a><br/>
+            <a href="https://github.com/yourusername/wild-idea">🌱 A nature-inspired generative art tool</a>
+          </p>
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
 
-<p align="center">
-  <details>
-    <summary><b>Fun Fact! 🎉</b></summary>
-    <br>
-    Did you know I once tried to teach my pet cactus 🌵 how to code? Let's just say its pull requests were a bit...prickly. 😉
-  </details>
-</p>
+<br/>
 
-<br>
+<details open>
+  <summary><h2>📚 My Story</h2></summary>
+  <div align="center">
+    <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" alt="Cartoon character typing">
+  </div>
+  
+  <p align="center">
+    <em>Once upon a time, I discovered that semicolons have feelings too...</em>
+  </p>
+  
+  <div align="center">
+  <table>
+    <tr>
+      <td><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <strong>Started coding</strong> by modifying video games</td>
+      <td><img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="30"> <strong>Found my passion</strong> in creating interactive experiences</td>
+    </tr>
+    <tr>
+      <td><img src="https://media.giphy.com/media/llDQjVIHqiXkeIJgrK/giphy.gif" width="30"> <strong>Now building</strong> tools that make people smile</td>
+      <td><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> <strong>Always learning</strong> from the amazing dev community</td>
+    </tr>
+  </table>
+  </div>
+</details>
 
-<p align="center">
-  <b>Let's Connect & Create! 🚀</b>
-</p>
+<br/>
 
-<p align="center">
-  Feel free to explore my repositories – you'll find a mix of personal projects, experiments, and maybe even a few digital doodles. I'm always open to collaboration and connecting with fellow enthusiasts. Don't hesitate to reach out!
-</p>
+<details open>
+  <summary><h2>🌈 Beyond The Code</h2></summary>
+  <div align="center">
+    <img src="https://media.giphy.com/media/l3V0megwbBeETMgZa/giphy.gif" width="200" alt="Adventure time character coding">
+  </div>
+  
+  <p align="center">
+    🎨 <strong>Creating pixel art</strong> of imaginary landscapes<br/>
+    🎮 <strong>Building games</strong> that probably only I will play<br/>
+    🏔️ <strong>Hiking</strong> whenever screens become too much<br/>
+    📚 <strong>Reading</strong> sci-fi and fantasy (recommendations welcome!)<br/>
+    ☕ <strong>Brewing</strong> coffee with unnecessary precision
+  </p>
+  
+  <div align="center">
+    <details>
+      <summary><strong>🎵 Currently playing in my headphones</strong></summary>
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=yourusername&count=1" alt="Spotify Recently Played" width="400" />
+    </details>
+  </div>
+</details>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0JIDcyJQlJPr9mKY/giphy.gif" alt="Animated pixel art of two characters giving a high-five" width="100">
-</p>
+<br/>
 
-<hr>
+<details open>
+  <summary><h2>💬 Let's Connect!</h2></summary>
+  <div align="center">
+    <img src="https://media.giphy.com/media/jOnvMpGbLFiVpZbQhM/giphy.gif" width="200" alt="Cartoon mail" />
+  </div>
+  
+  <p align="center">
+    <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://dev.to/yourusername"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  </p>
+  
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views">
+  </div>
+</details>
 
-<p align="center">
-  <sub>Last updated: May 11, 2025 (Just keeping things fresh! 🎨)</sub>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:EEFF00&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+</div>
