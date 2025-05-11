@@ -12,11 +12,11 @@
 
 <!-- Main profile section with anime aesthetics -->
 <table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
+  <tr width="60%">
     <td>
-      <img src="https://i.pinimg.com/originals/f4/32/74/f43274ca2a5baf4903cdf77b3d148ced.gif" width="550px" />
+      <img src="https://i.pinimg.com/originals/f4/32/74/f43274ca2a5baf4903cdf77b3d148ced.gif" width="100%" />
     </td>
-    <td width="50%">
+    <td width="40%">
       <h3>⋆｡˚ About Me ⋆｡˚</h3>
       <p><i>"Architecting digital solutions with precision and vision."</i></p>
       <p>
