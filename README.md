@@ -1,10 +1,6 @@
 <!-- Custom CSS for animations -->
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=18,22&height=210&section=header&text=Hi!%20I%20am%20Samyog%20&fontSize=45&fontAlign=center&fontAlignY=25&descAlign=center&descAlignY=40&descSize=18&animation=fadeIn"
-    width="100%" 
-    alt="Samyog GitHub Header"
-/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=200&section=header&text=Hi%20there,%20I'm%20Samyog!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 
 <div align="center">
@@ -62,7 +58,7 @@
   <a href="https://twitter.com/samyog">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=1A1B27" alt="Twitter">
   </a>
-  <a href="https://github.com/samyog">
+  <a href="https://github.com/Iam-samyog">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=24283b" alt="GitHub">
   </a>
   <a href="https://linkedin.com/in/samyog">
@@ -72,6 +68,5 @@
 
 <!-- Anime-style footer -->
 <div align="center">
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:EEFF00&height=150&section=footer&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 </div>
