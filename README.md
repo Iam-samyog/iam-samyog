@@ -1,73 +1,88 @@
-<div align="center">
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLoHVEMrF9Fha9/giphy.gif" alt="Animated pixel art of a friendly waving character with a laptop" width="150">
+</p>
 
-# ✨ Hello, I'm [Your Name] ✨
+<h1 align="center">Hey there, I'm Codey! 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3000&pause=1000&color=F8D866&center=true&vCenter=true&width=440&lines=Full-Stack+Developer;Open+Source+Enthusiast;Creative+Problem+Solver)](https://git.io/typing-svg)
+<p align="center">
+  A perpetually curious developer fueled by coffee ☕, a love for quirky cartoons 🤪, and the thrill of bringing digital ideas to life.
+</p>
 
-</div>
+<br>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220">
+<p align="center">
+  <a href="https://my-portfolio-website.example.com/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Digital%20Playground-Website-blueviolet?style=for-the-badge" alt="My Portfolio Website">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Say%20Hi!-Email-critical?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
 
-```javascript
-const developer = {
-  location: "City, Country",
-  currentFocus: "Building beautiful web experiences",
-  learning: ["Rust", "WebAssembly", "Three.js"],
-  askMeAbout: ["web dev", "tech", "photography", "coffee"],
-  reachMe: "your.email@example.com"
-};
-```
+<br>
 
-<div align="center">
-  
-## 🎨 Tech Palette
+<p align="center">
+  <details>
+    <summary><b>A Little More About My Adventures... 🗺️</b></summary>
+    <br>
+    Hey again! So, beyond the lines of code, you'll find me lost in the world of animation (think Studio Ghibli charm!), sketching silly characters 🖍️, or exploring hidden hiking trails 🏞️. I believe that creativity isn't confined to just one domain – it spills over into how we approach problems and build solutions.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F8D866?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+    My coding journey is driven by a desire to create things that are not only functional but also bring a little bit of joy to the user experience. I'm particularly fascinated by [mention 1-2 specific areas of interest, e.g., front-end wizardry and crafting intuitive interfaces, or the magic of back-end systems and making things tick].
 
-</div>
+    Currently tinkering with:
+    <ul>
+      <li>Learning the art of [mention a specific technology or skill you're learning] 📚</li>
+      <li>Building a small side project related to [mention your side project briefly] 🛠️</li>
+      <li>Experimenting with [mention another tech or interest] 🧪</li>
+    </ul>
+  </details>
+</p>
 
-<div align="center">
+<br>
 
-## ✨ Creation Highlights
+<p align="center">
+  <b>My Current Toolbox (Subject to additions and upgrades! 🛠️)</b>
+</p>
 
-<a href="https://github.com/yourusername/project1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/yourusername/project2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&hide_border=true" />
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
+  </p>
 
-</div>
+<br>
 
-<div align="center">
-  
-## 📊 GitHub Canvas
+<p align="center">
+  <details>
+    <summary><b>Fun Fact! 🎉</b></summary>
+    <br>
+    Did you know I once tried to teach my pet cactus 🌵 how to code? Let's just say its pull requests were a bit...prickly. 😉
+  </details>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide=stars" height="170px">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="170px">
+<br>
 
-</div>
+<p align="center">
+  <b>Let's Connect & Create! 🚀</b>
+</p>
 
-<div align="center">
-  
-## 🔗 Let's Connect
+<p align="center">
+  Feel free to explore my repositories – you'll find a mix of personal projects, experiments, and maybe even a few digital doodles. I'm always open to collaboration and connecting with fellow enthusiasts. Don't hesitate to reach out!
+</p>
 
-<a href="https://twitter.com/yourusername">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/yourusername">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://yourportfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-</a>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0JIDcyJQlJPr9mKY/giphy.gif" alt="Animated pixel art of two characters giving a high-five" width="100">
+</p>
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=yourusername&count=1" alt="Spotify Recently Played" width="400" />
+<hr>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+<p align="center">
+  <sub>Last updated: May 11, 2025 (Just keeping things fresh! 🎨)</sub>
+</p>
