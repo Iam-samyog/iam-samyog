@@ -45,7 +45,7 @@
 <div align="center">
   <br>
  
-  <p><i>"Clean code always looks like it was written by someone who cares."</i></p>
+  <p><i><strong>"Clean code always looks like it was written by someone who cares."</strong></i></p>
 </div>
 
 
