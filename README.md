@@ -12,11 +12,11 @@
 
 <!-- Main profile section with anime aesthetics -->
 <table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr width="60%">
+  <tr width="62%">
     <td>
-      <img src="https://media1.tenor.com/m/JwRNTvlcBF4AAAAC/mario-super-mario.gif" width="100%" />
+      <img src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="100%" />
     </td>
-    <td width="40%">
+    <td width="38%">
       <h3>⋆｡˚ About Me ⋆｡˚</h3>
       <p><i><strong>"Architecting digital solutions with precision and vision."</strong></i></p>
       <p>
