@@ -14,7 +14,7 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr width="60%">
     <td>
-      <img src="https://i.pinimg.com/originals/f4/32/74/f43274ca2a5baf4903cdf77b3d148ced.gif" width="100%" />
+      <img src="https://media1.tenor.com/m/JwRNTvlcBF4AAAAC/mario-super-mario.gif" width="100%" />
     </td>
     <td width="40%">
       <h3>⋆｡˚ About Me ⋆｡˚</h3>
