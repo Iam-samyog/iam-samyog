@@ -11,23 +11,27 @@
 
 
 <!-- Main profile section with anime aesthetics -->
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr width="62%">
-    <td>
-      <img src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="100%" />
-    </td>
-    <td width="38%">
-      <h3>⋆｡˚ About Me ⋆｡˚</h3>
-      <p><i><strong>"Architecting digital solutions with precision and vision."</strong></i></p>
+<div align='center'> 
+   <img src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="80%" />
+</div>
+<hr/>
+ <div>
+<p>
+  
+  <h3>⋆｡˚ About Me ⋆｡˚</h3>
+      <p><i><strong>Architecting digital solutions with precision and vision.</strong></i></p>
       <p>
-        Like an anime protagonist facing impossible challenges, I navigate through complex code structures and build elegant solutions. Every project is a new problem to solve, every function a carefully crafted tool in my arsenal.
+       Like an anime protagonist facing impossible challenges, I navigate through complex code structures and build elegant solutions. Every project is a new problem to solve, every function a carefully crafted tool in my arsenal. But the real magic happens when those solutions come to life and make a tangible impact.
       </p>
       <p>
-       When I'm not coding, you'll find me analyzing algorithms, exploring new programming languages, or strategizing my next technological breakthrough. I treat every setback as a training arc, a chance to level up and come back stronger. For me, programming isn't just a skill—it's a lifelong quest for mastery.
+      When I'm not coding, you'll find me analyzing algorithms, exploring new programming languages, or strategizing my next technological breakthrough. I treat every setback as a training arc, a chance to level up and come back stronger. The goal is always to create something meaningful, to turn a vision into a reality that others can use and enjoy. For me, programming isn't just a skill—it's a lifelong quest for mastery, driven by a desire to build a better digital world.
       </p>
-    </td>
-  </tr>
-</table>
+</p>
+ </div>
+ 
+  <hr/>
+     
+  
 
 <!-- Technical skill visualization -->
 <div align="center">
