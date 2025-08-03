@@ -12,7 +12,7 @@
 
 <!-- Main profile section with anime aesthetics -->
 <div align='center'> 
-   <img src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="60%" height="20%"/>
+   <img src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="100%" height="20%"/>
 </div>
 <hr/>
  <div>
