@@ -13,7 +13,7 @@
 
 <!-- Main profile section with anime aesthetics -->
 <div align='center'> 
-   <img src="https://media1.tenor.com/m/Txr7RYfzW-EAAAAC/anime-boy.gif" width="85%" />
+   <img src="https://media1.tenor.com/m/Txr7RYfzW-EAAAAC/anime-boy.gif" width="75%" />
 </div>
 <hr/>
 <div>
