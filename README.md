@@ -19,8 +19,8 @@
  <div>
 <p>
   
-  <h3>⋆｡˚ About Me ⋆｡˚</h3>
-      <p><i><strong>Architecting digital solutions with precision and vision.</strong></i></p>
+  <h2 align="center" ><ins> About Me </ins></h2>
+      <p align="center"><i><strong>Architecting digital solutions with precision and vision.</strong></i></p>
       <p>
        Like an anime protagonist facing impossible challenges, I navigate through complex code structures and build elegant solutions. Every project is a new problem to solve, every function a carefully crafted tool in my arsenal. But the real magic happens when those solutions come to life and make a tangible impact.
       </p>
