@@ -1,11 +1,12 @@
 <!-- Custom CSS for animations -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:a82da8&height=200&section=header&text=Hi%20there,%20I'm%20Samyog!&fontSize=50&fontColor=FAFAFA&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:00f5a0&height=200&section=header&text=Hi%20there,%20I'm%20Samyog!&fontSize=50&fontColor=FAFAFA&animation=twinkling&fontAlignY=35" width="100%"/>
 </div>
 
 <div align="center">
   <!-- Animated greeting text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=a82da8&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Welcome+to+my+digital+domain;Where+code+becomes+reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=007bff&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Welcome+to+my+digital+domain;Where+code+becomes+reality" alt="Typing SVG" />
 </div>
 
 
@@ -54,5 +55,5 @@
 
 <!-- Anime-style footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:007bff&height=150&section=footer&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:00f5a0&height=150&section=footer&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 </div>
