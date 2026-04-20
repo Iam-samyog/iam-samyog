@@ -17,7 +17,7 @@
 </div>
 <hr/>
 <div>
-  <h3 align="center"><ins> Architecting digital solutions with precision and vision </ins> </h3>
+  <h3 align="center"> Architecting digital solutions with precision and vision </h3>
   
   <p>
     Like an anime protagonist facing impossible challenges, I navigate through complex code structures to build elegant solutions. Every project is a new puzzle, and every function is a carefully crafted tool. The real magic happens when code comes to life to make a tangible impact.
