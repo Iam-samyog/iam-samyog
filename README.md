@@ -1,7 +1,7 @@
 <!-- Custom CSS for animations -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:00f5a0&height=200&section=header&text=Hello%20there,%20I'm%20Samyog!&fontSize=50&fontColor=FAFAFA&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:00f5a0&height=200&section=header&text=Hello%20there,%20I'm%20Samyog!&fontSize=50&fontColor=FAFAFA&&fontAlignY=35" width="100%"/>
 </div>
 
 <div align="center">
